@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 a2209d391cbe76a080066ca7843aaca22816fbc0 Tri Pham <thientri399@gmail.com> 1567003764 -0500	commit (initial): Initial commit
+a2209d391cbe76a080066ca7843aaca22816fbc0 95dac1c2c9229ff4a09a139c43450c46c0d34f09 Tri Pham <thientri399@gmail.com> 1567004098 -0500	commit: Commit message in quotes that describes the change being committed
+95dac1c2c9229ff4a09a139c43450c46c0d34f09 95dac1c2c9229ff4a09a139c43450c46c0d34f09 Tri Pham <thientri399@gmail.com> 1567004257 -0500	checkout: moving from master to solo
+95dac1c2c9229ff4a09a139c43450c46c0d34f09 99f601fac7e09377d2f12f0802f3dbda2e5527a5 Tri Pham <thientri399@gmail.com> 1567004390 -0500	commit: Add stuff on new branch
+99f601fac7e09377d2f12f0802f3dbda2e5527a5 95dac1c2c9229ff4a09a139c43450c46c0d34f09 Tri Pham <thientri399@gmail.com> 1567004415 -0500	checkout: moving from solo to master
+95dac1c2c9229ff4a09a139c43450c46c0d34f09 99f601fac7e09377d2f12f0802f3dbda2e5527a5 Tri Pham <thientri399@gmail.com> 1567004663 -0500	merge solo: Fast-forward
+99f601fac7e09377d2f12f0802f3dbda2e5527a5 d22b7c661bcaaafbfac900abba5d065e766517ed Tri Pham <thientri399@gmail.com> 1567004806 -0500	commit: add code.txt
+d22b7c661bcaaafbfac900abba5d065e766517ed d22b7c661bcaaafbfac900abba5d065e766517ed Tri Pham <thientri399@gmail.com> 1567004831 -0500	checkout: moving from master to experiment
+d22b7c661bcaaafbfac900abba5d065e766517ed d22b7c661bcaaafbfac900abba5d065e766517ed Tri Pham <thientri399@gmail.com> 1567004921 -0500	checkout: moving from experiment to master
+d22b7c661bcaaafbfac900abba5d065e766517ed 9459a6a60dea6c752cc84fcb23492f2bf9c73043 Tri Pham <thientri399@gmail.com> 1567005030 -0500	commit: hard core
+9459a6a60dea6c752cc84fcb23492f2bf9c73043 d22b7c661bcaaafbfac900abba5d065e766517ed Tri Pham <thientri399@gmail.com> 1567005051 -0500	checkout: moving from master to experiment
+d22b7c661bcaaafbfac900abba5d065e766517ed 1b959816652e4aa8926847228f803c57d5251251 Tri Pham <thientri399@gmail.com> 1567005105 -0500	commit: noice
+1b959816652e4aa8926847228f803c57d5251251 9459a6a60dea6c752cc84fcb23492f2bf9c73043 Tri Pham <thientri399@gmail.com> 1567005126 -0500	checkout: moving from experiment to master
+9459a6a60dea6c752cc84fcb23492f2bf9c73043 b38590fd855f124646f43dc5732065f54699a98f Tri Pham <thientri399@gmail.com> 1567005184 -0500	commit (merge): final
